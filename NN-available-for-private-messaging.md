@@ -37,3 +37,7 @@ to establish a shared secret.
 FIXME: we should probably define that protocol or else this NIP could not be put into
 practical use.  Should we use nostr Message types for client-to-client?
 
+
+
+FIXME - timestamp when availability deemed to cease
+      - key agreement protocol scheme specified, we start off with one
