@@ -25,6 +25,7 @@ NIPs stand for **Nostr Implementation Possibilities**. They exist to document wh
 - [NIP-28: Public Chat](28.md)
 - [NIP-35: User Discovery](35.md)
 - [NIP-36: Sensitive Content](36.md)
+- [NIP-40: Expiration Timestamp](40.md)
 
 ## Event Kinds
 
